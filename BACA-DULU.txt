@@ -1,0 +1,4 @@
+JANGAN DIUNGGAH KE GITHUB.
+Ekstrak ke akar folder proyek siduk-github-drive, hanya untuk komputer sendiri.
+Isi: .env.local (konfigurasi Firebase) dan 2 PDF pratinjau register (public/assets/aistudio/).
+Data siswa tidak lagi diperlukan di sini: isi lewat Import Dapodik di aplikasi.
